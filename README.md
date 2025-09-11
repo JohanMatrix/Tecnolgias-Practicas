@@ -1,2 +1,0 @@
-# Tecnolgias-Practicas
-Mis Practicas
